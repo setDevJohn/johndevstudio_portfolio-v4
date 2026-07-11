@@ -8,4 +8,8 @@ const nextConfig = {
   },
 };
 
+module.exports = {
+  allowedDevOrigins: ['https://johndevstudio.com'],
+};
+
 export default nextConfig;
