@@ -1,3 +1,5 @@
+import type { StaticImageData } from 'next/image';
+
 import authentication from '@/public/images/authentication.png';
 import csc from '@/public/images/csc.png';
 import flameGrill from '@/public/images/flame-grill.png';
@@ -9,7 +11,7 @@ export interface Project {
   id: number;
   title: string;
   category: string;
-  image: string;
+  image: StaticImageData;
   description: string;
   problem: string;
   result: string;
