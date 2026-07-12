@@ -160,7 +160,7 @@ export const PROJECTS: Project[] = [
     result:
       'Site responsivo desenvolvido com foco em performance, SEO e experiência do usuário.',
     tech: ['Next.js', 'React', 'Tailwind CSS', 'TypeScript', 'Nodemailer'],
-    link: 'https://csc-viagens.vercel.app/',
+    link: 'https://www.cscviagens.com.br/',
     github: '',
   },
 
@@ -176,7 +176,7 @@ export const PROJECTS: Project[] = [
     result:
       'Integração com API de geolocalização e renderização dinâmica utilizando Leaflet.',
     tech: ['React', 'TypeScript', 'Leaflet', 'REST API', 'SCSS'],
-    link: 'https://ip-address-tracker-jhonyfreitasdev.vercel.app/',
+    link: 'https://ip-address-tracker-johndevstudio.vercel.app/',
     github: 'https://github.com/setDevJohn/ip-address-tracker',
   },
 ];
